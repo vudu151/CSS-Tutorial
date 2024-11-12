@@ -1,0 +1,15 @@
+body{
+    padding: 10%;
+    font-size: 2rem;
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    line-height: 1.5;
+    
+}
+
+input, button{
+    font: inherit;
+}
